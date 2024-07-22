@@ -1,0 +1,11 @@
+{
+	"TOKEN": "YourTokenHere",
+	"CHANNEL_ID": null,
+	"URL_DOMAIN": null,
+	"URL_EXT": null,
+	"DELETE_ON_UNPUBLISHED": true,
+	"ENABLE_STREAM_MESSAGES": true,
+	"ENABLE_DEBUG": false,
+	"FILTER_OPTION": "open",
+	"FILTER_LIST": []
+}
